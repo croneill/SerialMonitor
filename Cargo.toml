@@ -1,0 +1,7 @@
+[package]
+name = "SerialMonitor"
+version = "0.1.0"
+authors = ["Charles O'Neill <oneill@swissmail.org>"]
+
+[dependencies]
+serial = "*"
